@@ -81,5 +81,4 @@ label {
 .btn-primary,
 .btn-secondary {
     background-color: var(--bs-primary);
-    border: 1px solid var(--bs-dark);
 }
